@@ -38,6 +38,14 @@ body{
  #footer_blog{
      margin: 2rem;
  }
+
+ .viñeta{
+     list-style:none;
+ }
+
+ .viñeta a{
+     text-decoration:none;
+ }
     
 
 
