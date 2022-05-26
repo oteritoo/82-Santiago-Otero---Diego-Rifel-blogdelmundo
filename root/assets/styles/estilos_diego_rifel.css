@@ -47,5 +47,14 @@ body{
      text-decoration:none;
  }
     
+ /*grid*/
+ section{
+
+/*despliegate como grid*/
+ display: grid;
+ grid-template-columns: repeat(12,1fr);
+ grid-auto-rows: auto;
+ gap: 3rem;
+ }
 
 
