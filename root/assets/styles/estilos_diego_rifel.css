@@ -57,4 +57,19 @@ body{
  gap: 3rem;
  }
 
+ section>header{
+     grid-column: span 12;
+ }
+
+ section>main{
+    grid-column: span 8;
+}
+
+section>aside{
+   grid-column: span 4;
+}
+
+section>footer{
+    grid-column: span 12;
+}
 
