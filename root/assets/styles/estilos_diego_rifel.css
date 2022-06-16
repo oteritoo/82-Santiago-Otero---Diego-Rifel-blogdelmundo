@@ -19,6 +19,7 @@ body{
     
     .resaltado{
         color:yellow;
+        color:#fff
     }
 
     .ilustracion{
@@ -72,4 +73,10 @@ section>aside{
 section>footer{
     grid-column: span 12;
 }
+
+nav{
+    font-size: 1.3rem;
+}
+
+
 
